@@ -1,0 +1,5 @@
+# 终端录制 / 本地产物
+typescript
+
+# Claude 个人本地设置（不共享）
+.claude/settings.local.json
