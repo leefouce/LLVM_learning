@@ -3,3 +3,6 @@ typescript
 
 # Claude 个人本地设置（不共享）
 .claude/settings.local.json
+
+# CMake 构建产物（插件在 VM 上编译，只留在 VM）
+build/
